@@ -1,0 +1,32 @@
+X:1
+T:Abbots Bromley Horn Dance
+R:Jig
+C:English Traditional
+C:Slow Dance Tempo
+M:6/8
+L:1/8
+Q:3/8=60
+K:Em
+e|"Em"B2e G2e|B2e E2G|"B"F>GA "Em"G>AB|"B"A>GF "Em"G2 e|"Em"B2e G2e|$
+B2e E2G|"B"F>GA "Em"G>AB|"B"A>GF "Em"E2 e|"Am"c2c c>de|"Am"A2A A>Bc|"D"F>GA "Em"G>FE|$
+"D"F>GA "Em"B2g|"Am"e2e e>fg|"C"c2c c>de|"D"d>cB "B"A>GF|"Em"E3 E2 |]$
+|:"Em"B>cB c2c|B>cB e2e|B>cB "B"A>GF|"Em"G2FE2 (3F/G/A/|$
+B>cB c2c |B>cB e2e|B>cB "B"A>GF|"Em"E3 E3:|
+T:Planxty Hewlett
+M:3/4
+L:1/8
+C:Turlough O'Carolan
+N:For Antony Heywood's Dance "An Enchanted Place"
+%%MIDI beat 100 95 80
+S:Colin Hume's website,  www.colinhume.com  - chords can also be printed below the stave.
+Q:1/4=110
+K:D
+P:A
+|: AF | "D"D2 DE FG | "A"AB c2 A2 | "Bm"d2 f2 fg | "G"fe d3B |$
+"D"A2 F2 F2 | "G"G3B AG | "D"AF D2 "G"D2 | "D"D4 :|
+%%vskip 0
+P:B
+FG | "D"A2 F2 AB | "D/C#"A2 F2 AB | "D/A"A2 d2 d2 | "Bm"dc BA GF |$
+"Em"G2 E2 GA | "Em/D"G2 E2 EF | "A/C#"GF GB AG | "D"AF D3E |$
+"D"FE F2 G2 | "A"AB c2 A2 | "Bm"fe fg ag | "G"fe d3B |$
+"D"A2 F2 F2 | "G"G3B AG | "D"AF D2 "G"D2 | "D"D4 |]$

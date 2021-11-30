@@ -1,0 +1,20 @@
+X: 1
+T: My Love She's But A Lassie Yet 
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+dc |: "D"d2 D2 F2 A2 | d2 D2 D2 dc |d2 D2 F2 A2 |"A" e2 E2 E2 dc |"D"d2 D2 F2 A2|
+"G"B2 g2 f2>e2 | "A"dcBA Bcde |[1 "D"f2 d2 d2 dc :|[2 "D"f2 d2 d2 fg ||
+|:"D"a2>f2 g2>e2|f2 d2 d2 fg |a2>f2 gfga| "A" b2 e2 e2 fg|"D"a2>f2 g2>e2|
+"G" f2>d2 e2>c2|"A"dcBA Bcde |[1 "D"f2 d2 defg :|[2 "D"f2 d2 [d4D4]]|
+%%vskip
+T:Gillie Calum - The Sword Dance
+T: The Skye Collection pg.14
+M:C
+L:1/8
+R:strathspey 
+K:A
+e|:"A"A<A c>e "G"{/B}d2 (B>=G)|"A"AA c>e {/B}d2 (c>A)|"A"B>E B>e "G"{/B}d2 (B>=G)"A"|A<A c>e "E"{/B}d>B  e2:|
+"A"A<A ce "G"{/f}=g2 B>G|"A" A<A c>e {/f}a2 {/d}c>A|"G" {/g}a2 {/d}c>A =g2 B>G|"A"A<A c>e "E"{/c}d>B e2|
+"A"A<A ce "G"{/f}=g2 (B>G)|"A" A<A c>e {/g}a>b a>f| "G"{/f}=g>a g>e  {/c}d>=g B>G|"A"A<A c>e "E"{/B}d>B e2|]

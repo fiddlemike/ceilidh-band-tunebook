@@ -1,0 +1,37 @@
+I:abc-charset utf-8
+X: 1
+T: Niel Gow's Lament for the Death of His Second Wife
+C: Niel Gow
+R: lament
+Z: John Chambers <jc:trillian.mit.edu>
+N: By Niel Gow (1727-1807).  His second wife was Margaret Urquhart of Perth,  to
+N: whom he was happily married for three decades.  A note in Gow's Collection
+N: reads "They lived together upwards of 30 years.  She died 2 years before him;
+M: 6/8
+L: 1/8
+K: D
+Q:3/8=40
+|: D/B,/| "D"A,>B,-D "Bm"D>E-D | "Em"E>F-A "G"B2 d | "D"A>F-D "Em"E>D-E | "Bm"F>D-B, "G"B,2 D/-B,/|
+  "D"A,>B,D "Bm"D>ED | "Em"EFA "G"d2c/B/ | "D"A>FD "G"B,2A, | "G"B,D>D "D"D3 :|
+(3(A/B/c/)| "D"d>fd "A7"ecA | "G"(B/A/B/c/)d "D"(B/A/) (G/F/) (E/D/) | "Em"E>DE "D"F>ED | "Bm"FDB, "G"B,2 (3(A/B/c/)|
+| "D"d>fd "A7"ecA | "G"(B/A/B/c/)d "D"(B/A/) (G/F/) (E/D/) | "Em"E>DE "Bm"FDB, | "D"A,<D"(G)"D "D"[A,2D2] (3(A/B/c/) |
+| "D"d>fd "A7"ecA | "G"(B/A/B/c/)d "D"(B/A/) (G/F/) (E/D/) | (F/D/) (A/F/) (d/A/) "Bm"(B/A/) (G/F/) (E/D/) | "Em"FEE "A7"E2 D/B,/ | 
+| "D"A,B,D "Bm"D>ED | "Em"EFA "G"d2c/B/ | "D"A>FD "G"B,2A, | "G"B,<DD "D"[A,3D3] |]
+T: Nathaniel Gow's Lament for the Death of His Brother
+B: Gow Collection v.3 #11
+N: arr. Elke Baker
+R: lament
+C: Nathaniel Gow (1763-1831)
+O: Scotland
+M: 6/8
+L: 1/8
+K: Am
+A/B/ |\
+"Am"c>BA "E7"eBd | "Am"cAA A2A/B/ | "Am"cBA "C"e^fg | "G"BGG G2A/B/ |\
+"Am"cBA "E7"eBd | "Am"cea "E7"e2d | "Am"c>BA "E7"EA^G | "Am"A[CA][CA] [CA] :|
+e |\
+"Am"a^ga "Em"e=g/f/e/d/ | "Am"cAA A2A/B/ | "Am"cBA "C"e^fg | "G"BGG G2e |\
+"Am"a^ga "Em"e=g/f/e/d/ | "Am"cAA Aed | "Am"c>BA "E7"EA^G | "Am"A[CA][CA] [CA]||
+e |\
+"Am"a^ga "Em"e=g/f/e/d/ | "Am"cAA A2A/B/ | "Am"cBA "C"e^fg | "G"BGG G2e |\
+"Am"aeg "Bdim"fdB | "Am"ecA "E"B^GE | "Am"ABc "E7"Be/d/c/B/ | "Am"cA"D"[DA] "Am"[C3A3] |]

@@ -1,0 +1,25 @@
+X: 1
+T:The Gravel Walks Reel
+R:reel
+M:4/4
+L:1/8
+Q:1/4=130
+K:G
+P:Part A
+|:"Am"A2 eA BAeA|"Am"A2 eA "G"BAGB|[1 "Am" A2 eA  Bdef|"G"gedc "Em"BAGB:|[2 "Am"ABcd efga|"G"gedc "Em"BAGB|]
+P:Part B
+|:"Am"A2 aA gAfA|"Am"e2 Ae "G"BAGB|[1"Am"A2 aA g2 ef|"G"  gage "Em"dBGd :|[2 "Am"  ABcd efga|gedc BAGB|]
+P:Part C
+|:"Am" (cA)(AE) A2 (AB)|"Am"(cA)(Ac) "G"(BG)(Bd)|"Am"(cA)(AE) A2 (ef)|"G"(gf)(ge) "Em"(dB)(GB) :|]
+P:Part D
+|:"C"c2 gc acgc|"C"c2 gc "G"BAGB|[1"C"c2 gc acga|"G"gedc BAGB:|[2 "Am"  ABcd efga|"G"gedc "Em"BAGB|]
+%%vskip
+T: The Milky Way (Come West Along the Road)
+%%vskip
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+"G"d2BG dGBG|"G"G2Bd "C"ef (3gfe|"G"d2BG dGBG|1 "Am"ABcd "D"edBc:|2 "Am"ABcd "D"edBd||
+"G"g2bg "C"egdg|"C"(3efg dg edBd|"G"g2bg egdB|"D"ABcd "(C)"edBd|
+"G"g2bg "C"egdg|"C"(3efg dg edBd|"G"gabg "C"efge|"D"dega "C"bage||

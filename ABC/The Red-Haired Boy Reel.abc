@@ -1,0 +1,21 @@
+X: 1
+T: The Red-Haired Boy Reel
+R: reel
+M: 4/4
+L: 1/8
+Q:1/2=120
+K: Amix
+P: (A)
+"A"vE2 A2 ABcd|"A" vefe(c "D"d2) cd|"A" ve2 A2 ABc(uA |"G" BA) G2 G4|
+"A"vE2 A2 ABcd| "A"vefe(c d2) "D"cd| "A"ve2 a2 "G"age(d |[1 "A"c2) A2 A4:|[2 "A"c2) A2 A2 ve(uf |] 
+P: (B)
+"G"ugf)e(f gf)e(f|"G"gf)e(c "D"d2) cd|"A" ve2 A2 ABcv(A|"G"BA) G2 G4|
+"A"vE2 A2 ABcd| "A"vefe(c "D"d2) cd|"A" ve2 a2 "G"age(d |[1 "A"c2) A2 A2 ve(uf :|[2 "A"c2) A2 A4|] 
+T: The Red-Haired Boy Reel
+T: Fiddle Chord Backup
+P:(A)
+v"11XX"[EA,][EA,][EA,][EA,] [EA,][EA,][EA,][EA,]|"11XX" v[EA,][EA,][EA,][EA,] "X00X"[AD][AD][AD][AD]|"11XX"v[EA,][EA,][EA,][EA,] [EA,][EA,][EA,][EA,]| "00XX"v[DG,][DG,][DG,][DG,] [DG,][DG,][DG,][DG,]|
+v"11XX"[EA,][EA,][EA,][EA,] [EA,][EA,][EA,][EA,]| "11XX"v[EA,][EA,][EA,][EA,] "X00X"[AD][AD][AD][AD]|"11XX"v[EA,][EA,][EA,][EA,] "00XX"[DG,][DG,][DG,][DG,]| "11XX"v[EA,][EA,][EA,][EA,] [EA,][EA,][EA,][EA,] :|]
+P:(B)
+"00XX"v[D4G,4] [D4G,4] |"00XX"v[D4G,4] "10XX"[D4A,4]|"11XX"v[E4A,4][E4A,4]|v"00XX" [D4G,4][D4G,4]|
+v"11XX"[EA,][EA,][EA,][EA,] [EA,][EA,][EA,][EA,]|"11XX" v[EA,][EA,][EA,][EA,] "X00X"[AD][AD][AD][AD]|"11XX"v[EA,][EA,][EA,][EA,] "00XX"[DG,][DG,][DG,][DG,]| v"11XX"[EA,][EA,][EA,][EA,] [EA,][EA,][EA,][EA,]:|]

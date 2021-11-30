@@ -1,0 +1,35 @@
+I:abc-charset utf-8
+X:1
+T: The Marquis of Huntly's  Highland Fling  
+M:C| 
+L:1/8 
+Q:1/4=110
+R:Country Dance 
+B:Preston's 24 Country Dances for the Year 1796 
+Z:AK/Fiddler's Companion 
+K:D 
+A|"D"d<df>d "G"g>e"D"f<d|"Em"B<e"E7"e>d {d}"A"c<A"A7"A<c|"D"d<df>d "G"g>e"D" f<d|"Em"B>e "A7"d/c/B/A/ "D"d2d:| 
+|:B|"D"A<D (F/E/D) A>Bd>f|"D"{a}g>ef<d "G"{f}e>dB<d|"D"A<D (F/E/D) "G"A>Bd<b|"A7"a<fef "D"d2d:|] 
+%%vskip 
+T: Captain Campbell's Strathspey
+Z: https://www.youtube.com/watch?v=aQN_6rwe8p0
+R: strathspey
+M: C
+L: 1/8
+K: Am
+G \
+| "Am"E<A A>B c>A B<G | "G"D<G G>A B>d c/B/A/G/ \
+| "Am"E<A A>B c>B c<e | 
+"G"d<B g>B "Am"A2 (AG) :||: "Am"A<a a>g e>d c<e | "G"d>e g>e d/=c/B/A/ G>B \
+| [1"Am"A<a a>g e>d c<e | "G"d<B g>B "Am"A2 A z:|] [2"Am"c<A "G"d>B "C"e>d =c<e | "G"d<B g>B"Am"A2 A z|]
+%%vskip 
+T:Red Haired Girl of Tulloch, The
+M:4/4
+L:1/8
+Q:1/4=132
+R:Strathspey
+S:MacDonald – Skye (1887)
+K:Bmin
+|:"Bm"B<B d>e f>e f<a|"A"A<A c>B A>ce>c|"Bm"B<Bd>e f>ef>^g|"F#m"a>fe>c "Bm"B2 B2 :|
+"Bm"d>f B>f d>f B>f|"A"c<e A>e c<e A>e|"B"d>f B>f d>f B>f|"F#m"a>fe>c "Bm"B2 (B>f)|
+"Bm"d>fB>f d>>fB>f|"A"c<e A>e c<e A>e|"Bm"B<B d>e f>ef>^g|"F#m"a>fe>c "Bm"B2 B2 |]
