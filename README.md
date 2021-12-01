@@ -4,6 +4,9 @@ This is the offical respository for the band's tune book. I wanted a more contro
 
 The folder structure is
 * ceildh-band-tunebook
-  * ABC - abc music files
+  * ABC - abc music files.
   * PDFs - sheet music created from the abc files which become individual pages in the tune book.
-  * template files - Use to create cover sheet and TOC
+  * Misc ABC - abc music files for tunes not added to the tunebook.
+  * Misc Tunes - sheet music created from the abc files in the Misc ABC folder.
+  * template files - Use to create cover sheet and TOC.
+  * A pdf copy of the the current version of the tunebook.
