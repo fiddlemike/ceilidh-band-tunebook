@@ -1,18 +1,17 @@
 X: 1
-T:The Gravel Walks Reel
-R:reel
-M:4/4
+T:Gravel Walk, The
 L:1/8
-Q:1/4=130
-K:G
-P:Part A
-|:"Am"A2 eA BAeA|"Am"A2 eA "G"BAGB|[1 "Am" A2 eA  Bdef|"G"gedc "Em"BAGB:|[2 "Am"ABcd efga|"G"gedc "Em"BAGB|]
-P:Part B
-|:"Am"A2 aA gAfA|"Am"e2 Ae "G"BAGB|[1"Am"A2 aA g2 ef|"G"  gage "Em"dBGd :|[2 "Am"  ABcd efga|gedc BAGB|]
-P:Part C
-|:"Am" (cA)(AE) A2 (AB)|"Am"(cA)(Ac) "G"(BG)(Bd)|"Am"(cA)(AE) A2 (ef)|"G"(gf)(ge) "Em"(dB)(GB) :|]
-P:Part D
-|:"C"c2 gc acgc|"C"c2 gc "G"BAGB|[1"C"c2 gc acga|"G"gedc BAGB:|[2 "Am"  ABcd efga|"G"gedc "Em"BAGB|]
+M:4/4
+K:A Dorian
+A2 eA BA eA|A2 eA BA GB|A2 eA Bd ef|ge dc BA GB:|
+A2 aA gA fA|A2 eA BA GB|A2 aA gA ef|gf ge dB GB|
+A2 aA gA fA|A2 eA BA GB|AB cd ef ga|ge dc BA GB||
+cA AG A2 AB|cA (3AAA BG Bd|\
+cA AG A2 ef|gf ge dB GB:|
+c2 gc ac gc|c2 gc BA GB|\
+c2 gc ac ga|ge dc BA GB|
+c2 gc ac gc|c2 gc BA GB |1 AB cd eg fa|
+ge dc BA GB :|2 Aa (3aaa ag ea|af ge dB GB||
 %%vskip
 T: The Milky Way (Come West Along the Road)
 %%vskip
