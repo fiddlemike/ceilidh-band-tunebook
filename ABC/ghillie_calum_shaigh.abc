@@ -7,10 +7,10 @@ R:strathspey
 K:Amix
 %%vskip
 z2 z e|:"A"A<A c>e "G"{/c}d2 (B<=G)|"A"A<A c>e {/c}d2 (c<A)|
-"G"B<E =G>B {/c}d2 (B<G)"A"|A<A c>e {/c}d<B  e2:|
+"G"B<E G>B {/c}d2 (B<G)"A"|A<A c>e {/c}d<B  e2:|
 "A"A<A c>e "G"{/f}g2 (B<G)|"A" A<A c>e {/=g}a2 (c<A)|
 {/=g}a2 {/B}(c>A) "G" =g2 (B<=G)|"A"A<A c>e {/c}(d<B) e2|
 "A"A<A c>e "G"{/f}g2 (B<G)|"A" A<A c>e {/g}a>b a<f| 
-"G"=g>a g<e  d>=g B<=G|"A"A<A c>e {/c}(d>B) e2|]
+"G"=g>a g<e  d>=g B<=G|"A"A<A c>e {/c}(d<B) e2|]
 %%vskip
 W: Chris Haigh, The Fiddle Channel; https://www.youtube.com/watch?v=khJAw23pOeE
