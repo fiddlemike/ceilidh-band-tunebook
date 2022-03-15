@@ -1,0 +1,32 @@
+X: 1
+T: The Dashing White Sergeant
+R: polka
+M: 2/4
+L: 1/8
+Q:1/4=120
+I:linebreak $
+K: Dmaj
+("D"[DA]4|[DA]2) (F>E)|:"D" DD (D/E/F/G/) |"D" AA A f/e/ |"D" dB AF |"G" BE "A7"(E/G/F/E/) |$
+"D" DD (D/E/F/G/) |"D" AA Af |"Em" ed cB|1 "A" A (A/B/ "A7"A/G/F/E/) :|2 "A" A z (A(E)|] $
+"A" A)(A/B/) c(c/d/)|"A" e(e/c/) A(A/c/)|"Em" B(B/c/) d(d/e/)|"Em" (f/a/f/)d/ B(B/d/)|$
+"A" cA/A/ "D" dA/A/ |"A" eA/A/ "D" fA/A/
+|"Em" gf ed |"A7" cB AG |"D" Fd (d/c/d/e/) |"D" dA A z|$
+"Em" Be (e/d/e/f/)|"Em" eB B z|"D" Ad (d/c/d/e/) |"D" fd (d/c/d/e/)|"D" f z"A7"a z |[1"D" d (c/B/A/G/F/E/):|[2 "D" d3 z |]
+T: The Spanish Lady 
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+|: "D"FA "A"AB/c/ |"D" dd de/f/ |"G" ge "D"fd |"A" BA A/B/A/G/ |"D"FA "A"AB/c/ |$
+"D" dd de/f/ | "G"ge "D"fd | "A"BA A2 :||:"D" fa a/b/a/f/ |"G" ed de | "D"fa a/b/a/f/ |$
+ "A"ae e>g | "D"fa a/b/a/f/ |"G" ed "D"de/f/ |"G" ge "D"fd |"A" BA A2 :|$
+T:Fairy Dance, The
+C:Nathaniel Gow
+S:Peter Hardie's MSS, via Scottish Country Dance Book 3
+Z:Nigel Gatherer
+M:4/4
+L:1/8
+K:D
+"D"f2 fd f2 fd|"D"f2 fd "A"cdeg|"D"f2 fd "G"gfed|1"A"cABc "D"d2 de:|]2"A"cABc "D"defg|]$
+"D"a2 af "G"b2 ba|"Em"gfge "A"a2 ag|"D"fefd "G"B2 ge|"A"cABc "D"defg|$
+"D"a2 af "G"b2 ba|"Em"gfge "A"a2 ag|"D"fefd "G"B2 ge|"A"cABc "D"d2 z2|]$
