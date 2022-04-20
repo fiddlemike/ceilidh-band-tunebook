@@ -1,0 +1,33 @@
+I:abc-charset utf-8
+X: 1
+T: Niel Gow's Lament for the Death of His Second Wife
+C: Niel Gow
+R: lament
+Z: John Chambers <jc:trillian.mit.edu>
+N: By Niel Gow (1727-1807).  His second wife was Margaret Urquhart of Perth,  to
+N: whom he was happily married for three decades.  A note in Gow's Collection
+N: reads "They lived together upwards of 30 years.  She died 2 years before him;
+M: 6/8
+L: 1/8
+K: D
+Q:3/8=40
+|: D/B,/| "D"A,>B,-D "Bm"D>E-D | "Em"E>F-A "G"B2 d | "D"A>F-D "Em"E>D-E | "Bm"F>D-B, "G"B,2 D/-B,/|
+  "D"A,>B,D "Bm"D>ED | "Em"EFA "G"d2c/B/ | "D"A>FD "G"B,2A, | "G"B,D>D "D"D3 :|
+(3(A/B/c/)| "D"d>fd "A7"ecA | "G"(B/A/B/c/)d "D"(B/A/) (G/F/) (E/D/) | "Em"E>DE "D"F>ED | "Bm"FDB, "G"B,2 (3(A/B/c/)|
+| "D"d>fd "A7"ecA | "G"(B/A/B/c/)d "D"(B/A/) (G/F/) (E/D/) | "Em"E>DE "Bm"FDB, | "D"A,<D"(G)"D "D"[A,2D2] (3(A/B/c/) |
+| "D"d>fd "A7"ecA | "G"(B/A/B/c/)d "D"(B/A/) (G/F/) (E/D/) | (F/D/) (A/F/) (d/A/) "Bm"(B/A/) (G/F/) (E/D/) | "Em"FEE "A7"E2 D/B,/ | 
+| "D"A,B,D "Bm"D>ED | "Em"EFA "G"d2c/B/ | "D"A>FD "G"B,2A, | "G"B,<DD "D"[A,3D3] |]
+%%vskip
+T:Inisheer
+R:waltz
+D:Buttons and Bows, First Month of Summer
+Z:added by Alf Warnock - alf0@rogers.com - http://members.rogers.com/alf0
+M:3/4
+L:1/8
+K:G
+D2|:"G"B3A Bd|"Em"B3A Bd|"Am"E3B AB|"D7"D4 D2|
+"G"B3A Bd|"Em"B3A Bd|"C"G3B "D7"(3AGF|[1"G"G4 D2:|[2 "G" G3 A Bd|
+|:"Em"e3f ed|"Bm"B3A Bd|"Em"ef ed Bd|"Em"e4 Bd|
+"Em"e3f ed|"Bm"B3A Bd|"C"E3B "D7"(3AGF|"G"G3A Bd|
+"Em"e3f ed|"Bm"B3A Bd| "G"gf ed Bd|"Em"e4 Bd|
+"Em"e3f ed|"Bm"B3A Bd|"D7"D3B (3AGF|"G"G4 D2||

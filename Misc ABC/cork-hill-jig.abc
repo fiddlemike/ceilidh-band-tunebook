@@ -1,0 +1,29 @@
+X:3
+T:Cork Hill
+C:Joe Buchanan's Scottish Tome - Page 323.0
+I:323 0
+R:Jig
+Z:Carl Allison
+L:1/8
+M:6/8
+K:A
+"A" A>AA (e2f) | e>cc "D" (e2f) | A>AA (d2f) | "A" e>cc "E7" (c2B) |
+"A" A>AA (e2f) | e>cc (e2f) | A>AA "D"(d2 f) | "A"e>cc "E7" (c2B) :|
+"A" A>ce a>ec | a>ec a>ec | A>ce a>ec | a>ec "E7"(c2 TB) |
+"A" A>ce a>ec | a>ec a>ec | "A"A>AA "D"(d2 f) | "A"e>cc "E7" (c2B) :|
+"A" A>AA e>cc | "D" f>dd "A" e>cc | A>AA e>cc | "A" e>cc "E7" (c2B) |
+"A" A>AA e>cc | "D" f>dd "A" e>cc | A>AA "D"(d2 f) | e>cc "E7" (c2B) :|
+"A" A>AA a>cc | e>cc a>cc | A>AA e>cc | "A" e>cc "E7" (c2B) |
+"A" A>AA a>cc | e>cc a>cc | A>AA "D"(d2 f) | e>cc "E7" (c2B) :|
+T:All the Blue Bonnets are over the Border
+T:Blue Bonnets over the Border
+M:6/8
+L:1/8
+R:Pipe March
+B:William Ross -- Ross's Collection of Pipe Music (1869, No. 63, p. 83)
+Z:AK/Fiddler's Companion
+K:D
+A|d3 d2 d2|d<fe dBA|dBB B<Bg|agf e2d|
+d2d d3|d<fe dBA|BcB ABc|def e2d:|
+|:dfa afd|agf fed|dfa afd|def e2d|
+dfa afd|agf fed|dcB ABc|def e2d:|]
