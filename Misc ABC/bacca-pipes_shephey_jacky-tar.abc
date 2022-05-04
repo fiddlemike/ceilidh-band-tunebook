@@ -1,0 +1,45 @@
+X:1
+T: Bacca Pipes
+O:trad.
+R:Jig
+L:1/8
+M:6/8
+K:G
+"Am"c3 c2 e|"G"d2 c B3|"F"c2 B A3|"G"B2 A G3|
+"Am"c3 c2 e|"G"d2 c B3|"F"c2 A "G"B2 A3|"Am" A3 A3 :|
+"G" g2 f g2 e|d2 B G3|"G" g2 f g2 e|"D"a2 f d3|
+"C" g2 f g2 e|"G"d2 c B3|"F" c2 "G"d e2 [dB] |"Am" A3 A3 :|
+T:Shepherd's Hey (Hankie)
+M:2/2
+C:
+S:Bacon (MDT)
+N:
+A:Field Town
+O:English
+R:Reel
+%P:A/2(AB)$^4$
+P:A.(AB)4
+K:Em
+Q:1/2=84
+P:A
+L:1/8
+|: B>c | d>cB>c d2 e>f | g>ag>f e2 B>c | d>cB>c d2 e>f |\
+M:3/2
+L:1/8
+g>a g>f e6 :|\
+M:2/2
+L:1/8
+P:B
+|: z d | c2 (3ccc B>AG>B | d>c (3Bcd c>B (3ABc | B>A G2 A>Bc>d |\
+M:3/2
+L:1/8
+e>f g>f e6 :|
+T: Jacky Tar
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Emin
+|:Bd|"Em"e2ed efge|"G" d2B2 B2dB|"D"ABde faef|"D" d2A2 A2Bd|
+"Em"e2ef g2fe|"G" dBGB d2cB|"D"AGFE DEFA|"Em"G2E2 E2:|
+|:GA|"Em"BGEG BGEG|"Em"BAGF E2FG|"D"AFDF AFDF|"D" AGFE D2EF|
+"Em"GFGB g2fe|"G" dBGB d2cB|"D"AGFE DEFA|"Em"G2E2 E2:|

@@ -1,0 +1,28 @@
+X:3
+T:Cork Hill Jig
+C:Joe Buchanan's Scottish Tome - Page 323.0
+I:323 0
+R:Jig
+Z:Carl Allison
+L:1/8
+M:6/8
+K:A
+"A" A>AA (e2f) | e>cc "D" (e2f) | A>AA (d2f) | "A" e>cc "E7" (c2B) |
+"A" A>AA (e2f) | e>cc (e2f) | A>AA "D"(d2 f) | "A"e>cc "E7" (c2B) :|
+"A" A>ce a>ec | a>ec a>ec | A>ce a>ec | a>ec "E7"(c2 TB) |
+"A" A>ce a>ec | a>ec a>ec | "A"A>AA "D"(d2 f) | "A"e>cc "E7" (c2B) :|
+"A" A>AA e>cc | "D" f>dd "A" e>cc | A>AA e>cc | "A" e>cc "E7" (c2B) |
+"A" A>AA e>cc | "D" f>dd "A" e>cc | A>AA "D"(d2 f) | e>cc "E7" (c2B) :|
+"A" A>AA a>cc | e>cc a>cc | A>AA e>cc | "A" e>cc "E7" (c2B) |
+"A" A>AA a>cc | e>cc a>cc | A>AA "D"(d2 f) | e>cc "E7" (c2B) :|
+T: The Blackbird Hornpipe
+R: hornpipe
+O: Irish Horrnpipe
+M: 2/2
+L: 1/8
+Q: 1/2=80
+K: Gmaj
+|:AG|"D"F2 FA GF D2|"D"de fd "F#m"dc AF|"G"G2 "Em"GF "G"GF DE|"C"Fd "Am"AF "Em"G2 DE|
+"D"F2 FA GF D2|"D"de fd "F#m"d^c AG|"Am"Ad =cA "G"GB AG|"G"F2 "C"D2 "D"D2:|
+|:fg|"D"ag fa "Em"gf eg|"F#m"fd e^c "D"d=c A2|"D"ag fa "Em"gf de|"D"fd "G"gf "Am"e2 fg|
+"D"a2 ge "C"f3 e|"F#m"d^c de "D"fd AG|"A"Ad =cA "G"GcAG|"G"F2 "C"D2 "D"D2:|
