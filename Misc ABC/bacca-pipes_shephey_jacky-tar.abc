@@ -6,7 +6,7 @@ L:1/8
 M:6/8
 K:G
 "Am"c3 c2 e|"G"d2 c B3|"F"c2 B A3|"G"B2 A G3|
-"Am"c3 c2 e|"G"d2 c B3|"F"c2 A "G"B2 A3|"Am" A3 A3 :|
+"Am"c3 c2 e|"G"d2 c B3|"F"c2 A "G"B2 G3|"Am" A3 A3 :|
 "G" g2 f g2 e|d2 B G3|"G" g2 f g2 e|"D"a2 f d3|
 "C" g2 f g2 e|"G"d2 c B3|"F" c2 "G"d e2 [dB] |"Am" A3 A3 :|
 T:Shepherd's Hey (Hankie)
@@ -17,7 +17,6 @@ N:
 A:Field Town
 O:English
 R:Reel
-%P:A/2(AB)$^4$
 P:A.(AB)4
 K:Em
 Q:1/2=84
@@ -34,12 +33,13 @@ P:B
 M:3/2
 L:1/8
 e>f g>f e6 :|
+%%vskip
 T: Jacky Tar
 R: hornpipe
 M: 4/4
 L: 1/8
 K: Emin
-|:Bd|"Em"e2ed efge|"G" d2B2 B2dB|"D"ABde faef|"D" d2A2 A2Bd|
-"Em"e2ef g2fe|"G" dBGB d2cB|"D"AGFE DEFA|"Em"G2E2 E2:|
-|:GA|"Em"BGEG BGEG|"Em"BAGF E2FG|"D"AFDF AFDF|"D" AGFE D2EF|
-"Em"GFGB g2fe|"G" dBGB d2cB|"D"AGFE DEFA|"Em"G2E2 E2:|
+|:u(Bd)|"Em"[e3B3] d e(fge)|"G" d(B{d}Bc) B^cd(B|"D"AB)de faef|"D" d2A2 A2(Bd)|
+"Em"ede(f "C"g2)fe|"G" dBG(B d2)cB|"D"AGF(E DE)FA|"Em"vG2E2 E2:|
+|:uG|"Em"B(GEG) B(GEG)|"Em"BAG(F E2)FG|"D"A(FDF) A(FDF)|AGF(E "(Bm)"D2)EF|
+"Em"GFGu(B "C"{c}g2)fe|"G" dBG(B d2)cB|"D"AGF(E DE)FA|"Em"G2E2 [B,2E2]:|

@@ -1,21 +1,17 @@
 X:1
-T:Ghillie Calum - The Sword Dance
+T:Ghillie Calum (Dance: The Sword Dance)
 T: The Skye Collection, pg.14
 M:C
 L:1/8
 R:strathspey 
 K:Amix
-%%vskip
 z2 z e|:"A"A<A c>e "G"{/c}d2 (B<=G)|"A"A<A c>e {/c}d2 (c<A)|
 "G"B<E G>B {/c}d2 (B<G)"A"|A<A c>e {/c}d<B  e2:|
 "A"A<A c>e "G"{/f}g2 (B<G)|"A" A<A c>e {/=g}a2 (c<A)|
 {/=g}a2 {/B}(c>A) "G" =g2 (B<=G)|"A"A<A c>e {/c}(d<B) e2|
 "A"A<A c>e "G"{/f}g2 (B<G)|"A" A<A c>e {/g}a>b a<f| 
 "G"=g>a g<e  d>=g B<=G|"A"A<A c>e {/c}(d<B) e2|]
-%%vskip
-W: Chris Haigh, The Fiddle Channel; https://www.youtube.com/watch?v=khJAw23pOeE
-%%vskip
-T: The Marquis of Huntly's  Highland Fling  
+T: The Marquis of Huntly's Highland Fling  (Dance: The Highland Fling)
 M:C| 
 L:1/8 
 Q:1/4=110
@@ -25,3 +21,13 @@ Z:AK/Fiddler's Companion
 K:D 
 A|"D"d<df>d "G"g>e"D"f<d|"Em"B<e"E7"e>d {d}"A"c<A"A7"A<c|"D"d<df>d "G"g>e"D" f<d|"Em"B>e "A7"d/c/B/A/ "D"d2d:| 
 |:B|"D"A<D (F/E/D) A>Bd>f|"D"{a}g>ef<d "G"{f}e>dB<d|"D"A<D (F/E/D) "G"A>Bd<b|"A7"a<fef "D"d2d:|] 
+T: The High Road To Gairloch (Dance: The Highland Fling)
+R: march
+M: 2/4
+L: 1/8
+Q:1/4=96
+K: Amix
+e>f eA|{cd}cA {g}e2|df/{g}e/ dG|B=G {dc}d2|
+e>f eA|{cd}cA {g}e2|{g}A>B {cd}cA|{Bd}B2 {B}A2:|
+cA A>B|cA c2|d>c B>c|dB d2|
+cA A>B|cA ce|A>B cA|B2 A2:|
