@@ -10,7 +10,7 @@ The folder structure is
   * Misc ABC - abc music files for tunes not added to the tunebook.
   * Misc Tunes - sheet music created from the abc files in the Misc ABC folder.
   * template files - Use to create cover sheet and TOC.
-  * tunes for dance show - tunes specific to the MacColin Dance Show.
+  * dance show tune book - latest project creating a tune book for the MacColin Dance Show.
   * A pdf copy of the the current version of the tunebook.
   * a pdf copy of the MacColin Dance Show set list.
   * A image of the band tshirt.
