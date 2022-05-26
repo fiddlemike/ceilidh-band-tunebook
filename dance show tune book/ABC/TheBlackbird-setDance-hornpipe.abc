@@ -1,0 +1,24 @@
+X:1
+T:The Blackbird (Dance: The Blackbird Set Dance)
+O: Irish Trad.
+R:set dance
+M:4/4
+K:G
+dc|:"G"B2Bd "C"c2Bc|"D"ABAG EGAG|"G"dcde dcAF|"G"GAGF "D"D2DE|
+"D"FEFG A2 ge|dcde dcAF|"G"GAGF D2 D2|D4:||
+de|"D"f2de f2g2|abag fgaf|"G"g2gf gaaf|gagf "D"d2 de|
+"D"fede f2 "G"g2|"D"abag fgaf| "G"gagf "D"d2 d2|d4 defg|
+"D"abag fgaf|"G"gage "D"f2fe|"C"c2AB c2de|"D"fefg a4|
+"D"ABAG FGAB|"C"cBce dcAF|"G" GAGF D2D2| D4|]
+%%vskip
+T: The Blackbird Hornpipe
+R: hornpipe
+O: Irish Horrnpipe
+M: 2/2
+L: 1/8
+Q: 1/2=80
+K: Gmaj
+|:AG|"D"F2 FA GF D2|"D"de fd "F#m"dc AF|"G"G2 "Em"GF "G"GF DE|"C"Fd "Am"AF "Em"G2 DE|
+"D"F2 FA GF D2|"D"de fd "F#m"d^c AG|"Am"Ad =cA "G"GB AG|"G"F2 "C"D2 "D"D2:|
+|:fg|"D"ag fa "Em"gf eg|"F#m"fd e^c "D"d=c A2|"D"ag fa "Em"gf de|"D"fd "G"gf "Am"e2 fg|
+"D"a2 ge "C"f3 e|"F#m"d^c de "D"fd AG|"A"Ad =cA "G"GcAG|"G"F2 "C"D2 "D"D2:|

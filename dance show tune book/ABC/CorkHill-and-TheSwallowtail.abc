@@ -1,5 +1,5 @@
 X:3
-T:Cork Hill
+T:Cork Hill Jig (Dance: Highland Jig)
 C:Joe Buchanan's Scottish Tome - Page 323.0
 I:323 0
 R:Jig
@@ -15,15 +15,12 @@ K:A
 "A" A>AA e>cc | "D" f>dd "A" e>cc | A>AA "D"(d2 f) | e>cc "E7" (c2B) :|
 "A" A>AA a>cc | e>cc a>cc | A>AA e>cc | "A" e>cc "E7" (c2B) |
 "A" A>AA a>cc | e>cc a>cc | A>AA "D"(d2 f) | e>cc "E7" (c2B) :|
-T:All the Blue Bonnets are over the Border
-T:Blue Bonnets over the Border
-M:6/8
-L:1/8
-R:Pipe March
-B:William Ross -- Ross's Collection of Pipe Music (1869, No. 63, p. 83)
-Z:AK/Fiddler's Companion
-K:D
-A|d3 d2 d2|d<fe dBA|dBB B<Bg|agf e2d|
-d2d d3|d<fe dBA|BcB ABc|def e2d:|
-|:dfa afd|agf fed|dfa afd|def e2d|
-dfa afd|agf fed|dcB ABc|def e2d:|]
+T: The Swallowtail Jig (Dance: Highland Jig)
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|"Em"GEE BEE|GEE BAG|"D"FDD ADD|dcd AGF|
+"Em"GEE BEE|GEE B2 c|"D"dcd AGF|[1"Em"GEE E3:|[2"Em"GEE E2 B|]
+|:"Em"Bcd e2f|e2f edB|Bcd e2f|"Em"edB "D"d3|
+"Em"Bcd e2f|e2f edB|"D"dcd AGF|[1"Em"GEE E2B:|[2"Em"GEE E3|]

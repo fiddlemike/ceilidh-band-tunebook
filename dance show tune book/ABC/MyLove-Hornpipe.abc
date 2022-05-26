@@ -1,0 +1,31 @@
+X: 1
+T: My Love She's But A Lassie Yet  (Dance: Hornpipe)
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+dc |: "D"d2 D2 F2 A2 | d2 D2 D2 dc |d2 D2 F2 A2 |"A" e2 E2 E2 dc |"D"d2 D2 F2 A2|
+"G"B2 g2 f2>e2 | "A"dcBA Bcde |[1 "D"f2 d2 d2 dc :|[2 "D"f2 d2 d2 fg ||
+|:"D"a2>f2 g2>e2|f2 d2 d2 fg |a2>f2 gfga| "A" b2 e2 e2 fg|"D"a2>f2 g2>e2|
+"G" f2>d2 e2>c2|"A"dcBA Bcde |[1 "D"f2 d2 defg :|[2 "D"f2 d2 [d4D4]]|
+%%vskip
+T:Corney Drew's Hornpipe (sliabh luachra)
+T: Crannciuil Crotuir Uí Draeda
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+|: (3DEF|G2 GE GABd|edef gedg|edef gedB|A^GAc BA=GE|
+G2 GE GABd|e^def ge=dg|(3ege dc BdAB|1 G2 GF GF:|2 G2 GF GABd||
+|:gfgb a2 ga|(3bag af gedg|edef gedB|BAAA A2 Bd|
+gfgb a2 ga|(3bag af gedg|(3ege BdAF|[1G2 GD GABd :|[2  G2 GF G2 |] 
+%%vskip
+T:Jacky Tar
+R:hornpipe
+M:4/4
+L:1/8
+K:Edor
+(Bd) | "Em"  e2 ed efge | "G" d2 B2 B2 (dB) | "D" ABde faef |  d2 A2 A2 (Bd) |
+       "Em" e2 ef g2 fe | "G" dBGB  d2 (cB) | "D" AGFE DEFA | "Em" G2 E2 E2  :|
+(GA) | "Em" BGEG   BGEG |     BAGF  E2 (FG) | "D" AFDF AFDF |   AGFE D2 (EF) |
+       "G" GFGB g2 (fe) |     dBGB  d2 (cB) | "D" AGFE DEFA | "Em" G2 E2 E2  :|

@@ -1,4 +1,5 @@
 X:1095
+T:Polka Set No. 2
 T:Ballydesmond Polkas - #1
 R:polka
 M:2/4
@@ -8,6 +9,7 @@ K:G
 "Am"(EA) (AB)|(cd) ev(e/f/|"(Em)"ge) "G"(dB)|"Am"A2 A:|
 |:"Am"a2 a>(b|a)g ef|"G"g2 g>(a|"Em"g)e de|
 "Am"a2 a>(b|a)(g "D"e)v(e/f/|"(Em)"ge) "G"(dB)|"Am"A2 A2:|
+%%vskip
 T:Ballydesmond Polkas - #2
 R:polka
 M:2/4
@@ -18,6 +20,7 @@ K:Ador
  "Am"c)(e "G"d)(B |[1 "Am"A2) (AB):|[2 "Am"A2) A2||
 |:("Am"ea) (ag/2e/2) | ("G"dg) (gd) | ("Am"ea) (ab) | "Em"g2 g>(f |
 "Am"ea) ("G"g/2a/2g/2e) | ("G"dB) "Em"G(A/2B/2 | "Am"c) (e "G"d)(B | "Am"A2) A2:|
+%%vskip
 T: Ballydesmond Polkas - #3
 M: 2/4
 L: 1/8
