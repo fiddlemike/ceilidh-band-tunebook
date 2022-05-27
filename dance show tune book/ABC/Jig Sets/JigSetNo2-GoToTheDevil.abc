@@ -1,0 +1,32 @@
+X: 1
+T: Jig Set No. 2
+T: Go to the Devil and Shake Yourself 
+R: jig
+M: 6/8
+L: 1/8
+Q:3/8=112
+K: D
+A|:"D"Add "G"dcB|"D"ABA "A7"AFA|"D"Add "A"d2 e|"Bm"fdB "G"B2 A|"D"Add "G"dcB|"D"ABA "A7"AFA|
+"D"dfd "A7"ege|1"D"fdc d2A:|2"D"fdc d2 f/g/||\
+|:"D"afd dcd|"G"BGF G2 g/a/|"Em"bge efe|
+"A7"cAA A2 A|"D"Add "Bm"dcB|"D"ABA AFA|"G"dfd "A7"ege|1 "D"fdc d2 f/g/:|2 "D"fdc d3|]
+T: The Banks Of Lough Gowna
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+"Bm"BcB BAF|"D"FEF DFA|"Bm"BcB BAF|"D"d2e fed|
+"Bm"BcB BAF|"D"FEF DFA|"Bm"def "A"gfe|"Bm"fdB B2A:|
+|:"D"def a3|afb afe|"Bm"def "A"gfe|"Bm"fed edB|
+"D"def a3|afb afe|"Bm"def "A"gfe|"Bm"fdB B2A:|
+T:Donnybrook Fair
+M:6/8
+L:1/8
+R:Jig
+K:G
+D | "G"G2G "D"AGA | "Em"Bee "D7"dBA |  "G"BAB "Em"GAB |"Am"AGE "D"E2D \
+  | "G"G2G "D"AGA | "Em"Bee "D7"dBA |  "G"BAB     GAB | "D"AGF "G"G2 :|
+f |"Em"gfe "D"fed |  "C"ege  "D"dBA | "Em"Bee  "D"dBA |"Em"Bee    e2f \
+  |"Em"gfe "D"fed |  "C"ege "D7"dBA |  "G"BAB     GAB | "D"AGF "G"G2 |]
+f |"Em"gfe "D"fed |  "C"ege  "D"dBA | "Em"Bee  "D"dBA |"Em"Bee "C"e2f \
+  | "G"gfg "D"aga |  "C"bge "D7"dBA |  "G"BAB     GAB |"D7"AGF "G"G2 |]

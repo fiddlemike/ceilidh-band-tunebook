@@ -1,0 +1,36 @@
+X: 1
+T: Reel Set No. 1
+T: Frank's Reel
+C: John McCusker
+R: reel
+Z: 2006 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: A
+|: "A"AcBA "D"F2 AF | "A"EFAB cABc | "D"~d3f "A"eAce | "Bm"f{g}aec "E"B{c}dcB |
+|  "A"AcBA "D"F2 AF | "A"EFAB cABc | "D"~d3f "A"ecAc |1 "E"BAGB    "A"A3E    :|2 "E"BAGB "A"Ae"(E7)"fg ||
+[| "A"aAAg "D"AAfA  | "A"effe cABc | "D"~d3f "A"ecAc | "Bm"Bcde   "E7"fefg    |
+|  "A"aAAg "D"AAfA  | "A"effe cABc | "D"~d3f "A"ecAc |  "E"BAGB    "A"Ae"(E7)"fg ||
+|| "A"aAAg "D"AAfA  | "A"effe cABc | "D"~d3f "A"eAce | "Bm"f{g}aec "E"B{c}dcB |
+|  "A"AcBA "D"F2 AF | "A"EFAB cABc | "D"~d3f "A"ecAc |  "E"BAGB    "A"A4      |]
+%%vskip
+T:Earl's Chair, The
+R:reel
+C:Pakie Moloney
+H:The tune was supposedly composed by an East Galway flute player and an
+H:uncle of Mike Rafferty named Pakie Moloney. He composed the tune while
+H:sitting on a big rock in the Derrycrag Wood, and first called it "Down
+H:between the two Derryoobers" - as he was sitting between the two townlands
+H:of Derryoober East and Derryoober West. He later thought better of it and
+H:changed the name to a shorter one, "The Earl's Chair," which was the name
+H:of the big rock - named after the Earl of Clanrickard who reportedly rested
+H:there during his hunts.
+D:Patrick Street 1.
+D:Mary MacNamara.
+Z:id:hn-reel-25
+M:C|
+K:Bm
+"G"B2~B2 BAFA|[B2D2]dB BAFB|"D"AF~F2 DF~F2|(AF)dB (AD)FA|
+"G"[B2D2] (dB) B(AFA)|[B2D2] dB BAFB|"Em"(AF)AB (de)fd|1 "A"(ed)ef "D"d3A:|2 "A"(ed)ef "D"d3f||
+|:"A"~e3f "D"d2(df)|"A"(ed)ef "Bm"(dBA2)|"A"~e3f "D"(dc)"G"d(e|"D"fe)"Em"d(B "D"AD)FA|
+"Em"~e3f (eB)~B2|"G"(gB)~B2 "D"(de)fg|(af)"G"bf "D"(af)"A"e(g|"D"fe)dB A(DFA):|
