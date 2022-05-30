@@ -1,0 +1,30 @@
+X:1
+T: Dance: Seann Triubhs
+T: Seann Triubhs (Whistle O'er the Lave O't)
+M:4/4
+L:1/8
+R:Strathspey
+K:D
+P: Introduction for "Seann Triubhs" (4 bars)
+|A2 A>B cB c2|ef/<g/ a>c B<A A<G | A2 A>B c<B c<a | A>c ec c<B Aa ||
+%%vskip
+P: Slow Time (92-104 bpm) / 3 or 4 steps - 8 bars per step. (1 line = 1 step)
+|:A2 A>B cB c2|ef/<g/ a>c B<A A<G | A2 A>B c<B c<a | A>c ec c<B [1Aa :|[2 A2|]
+|: ef/<g/ a>g fe c2 | ef/<g/ a>c B<A A<G | ef/<g/ a>g fe f/g/a | A>c ec c<B A2 :|] 
+%%vskip
+P: Quick Time (112-124 bpm) /  1 or 2 steps - 8 bars per step (for 1 step play each line only once)
+|:A2 A>B c>B c<e | A2 A>f e>c B2 | A2 A>B c>B c<e | f<a e>a c<a B2 :|]
+|: c<e e>f a>e f>e | c<e e>f a>e B2 | c<e e>f a>e f>e | f<a e>a c<a B2 :|]
+%%vskip
+%%vskip
+T:Shaun Truish Willichan (A Reel in D Dorian) 
+M:C
+L:1/8
+R:Reel
+B:Robert Bremner – Collection of Scots Reels or Country Dances (1757)
+Z:AK/Fiddler’s Companion
+K:Ddor
+A,|D/D/D D>F E2 A,>F|F2 (ED) G/F/E/D/ CE|D/D/D D>F E2 A>E|F2 TED CA,A,:|
+|:G|A>cAF G>AGE|F>GFD G/F/E/D/ CG|A>cAF G>AGE|FD G/F/E/D/ CA,A,:|
+|:A|d/d/d d>f Te2 A>e|{de}f2 ed g/f/e/d/ ce|d/d/d d>f Te2 ce|fd g/f/e/d/ Tc>AA:|
+|:g|aa _b/a/g/f/ gg a/g/f/e/|ff g/f/e/d/ eccg|aa _b/a/g/f/ gg a/g/f/e/|fd g/f/e/d/ TcAA:|]
