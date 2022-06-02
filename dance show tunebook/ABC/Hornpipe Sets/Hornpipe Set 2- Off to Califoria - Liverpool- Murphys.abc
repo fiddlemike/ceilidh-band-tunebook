@@ -1,0 +1,29 @@
+X:1
+T: Hornpipe Set No. 2
+T:Off to California
+L:1/8
+M:4/4
+R:Hornpipe
+K:G
+(3uDEF) |"G"G2 G(B "D"A)(GFD)|"G"GBd(g "C"e2) (3de(vf|"G"g)(fg)(d "C"e)(d"G"BG)|"D"AB"A"A(G "D"E2) (3DEV(F|
+"G"G)(FG)(B "D"A)(uGED)|"G"GBd(g "C"e2) (3de(vf|"G"g)(fg)(d "C"e)(d"G"BG)|"D"uA2 "G"G2 G2:|]
+u(ef)|"Em"gfe(g "D"fe)df|"Em"e2 e(f e)(d  B2)|"G"g(fg)(d "C"e)(d"G"BG)|"D"AB"A"A(G"D" E2) (3DE(F|
+"G"G)(FG)(B "D"A)(GED)|"G" vGBd(g "C"e2) (3de(f|"G"g)(fg)(d "C"e)(d"G"BG)|"D"A2 "G"G2 G2:|]
+T: The Liverpool Hornpipe
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|:AG|"D"FDFA dfaf|"G"gfed "A"dcBA|"G"G2BG "D"F2AF|"Em"EDEF "A7"GBAG|
+"D"FDFA dfaf|"G"gfed "A"dcBA|"D"dfaf "A7"bgec|"D"d2dc d2:|
+|:(3ABc|"D"d2fd "A"c2ec|"G"BABc dcBA|"G"G2BG "D"F2AF|"Em"EDEF "A7"GBAG|
+"D"FDFA dfaf|"G"gfec "A"dcBA|"D"dfaf "A7"bgec|"D"d2dc d2:|
+T: Murphy's
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(3DEF|"G"GABG "Em"EFGF|"D7"ABcA FGAF|"G"GBdg "C"ecAG|"D7"FGAF "D"DEFD|
+"G"GABG "Em"EFGE|"D7"ABcA "D"FGAF|"G"GBdg "Am"ecAF|"G"G2GF G2:|
+|:"Bm"Bc|"D7"dedc "G"BcdB|"Em"efed "D"cdef|"G"gagd "C"ecAG|"D7"FGAF "D"DEFD|
+"G"GABG "Em"EFGE|"D7"ABcA "D"FGAF|"G"GBdg "Am"ecAF|"G"G2GF G2:|
