@@ -1,0 +1,34 @@
+X: 1
+T: Scottish March Set No.1
+T: Flett From Flotta
+R: march
+M: 4/4
+L: 1/8
+K: Amaj
+(f>e)|"A"vc3/2e/ cB {d}c2(Ac)|e3/2f/ ec {f}e2(ce)|"D"{fa}f3/2e/ fa "D"f2("A"ec)|"D"{fa}f>e "A/C#"cA "Bm"{c}B2 "E7"(f>e)|
+"A"vc3/2e/ cB {d}c2(Ac)|"A"e3/2f/ "A7/C#"ec "D"{g}a2(A3/2B/)|"A/E"{B}c2 "F#m"{g}a2 "Bm"e<c "E7"B>c|"A"A4 {AB}A2||
+(Ac)|"A"{f}ve2(Ac) {g}a2(Ac)|e>f ec {f}e2(Ac)|"A"{g}a2(Ac) "F#m"{f}e2(ce)|"D"{fa}f>e "A"cA "G"{c}B2 "E7/G#"(fe)|
+"A"vc3/2e/ cB {B}c2(Ac)|"A"e3/2f/ "A/G"ec "D/F#"{g}a2"Dm/F"(A3/2B/)|"A/E"{B}c2 "F#m"{g}a2 "Bm"e<c "E7"B>c|"A"A4 {AB}A2||
+%%vskip
+T: Loch Ruan
+R: march
+M: 4/4
+L: 1/8
+K: Dmaj
+(A>B)|"D"d2 (Aa) f2 (ed)|"Em"e2 (fg) B2 (e>d)|"A7"c2 (BA) g2 (ec)|"D"d2 (ef) A2 (A>B)|
+"D"d2 (Aa) f2 (ed)|"Em"e2 (fg) B2 (e>d)|"A7"c2 (BA) g2 (ec)|"D"d2 d2 d2 f>g|
+"D"a2 (fd) Aa fg|"Em"e2 (fg) B2 (e>f)|"A7"g2 (ec) Ag ec|"D"d2 (ef) A2 (f>g)|
+"D"a2 (fd) Aa fd|"Em"e2 (fg) B2 (e>d)|"A7"c2 (BA) g2 (ec)|"D"d2 d2 d2 z2|
+%%vskip
+T:Pikeman's  March (The Halting march)
+R:march
+C:anonymus
+O:Ireland [B&S2]x[ET](~like Cran)
+S:D.R.Bulmer & N.Sharpley: "Music from Ireland Volume 2"(=[B&S2])(1974) #77 (played by Cathal McConnell, flute)
+M:4/4
+L: 1/8
+K:Adorian
+"Am"A2 (3(Bcd) e2 ed|e>def ec A2|"G"G2 Bc d2 de|dBGB d2 cB|
+"Am"A2 (3(Bcd) e2 ed|e>def ec A2|"Am"a g2 e"G"d c2 B|"A"A2 AG A4:|
+|:"Am"a a2 ge d2 e|"G"g>age dB G2|"Am"a a2 ge d2 e|"G"g>age g2 eg|
+ "Am" a a2 ge d2 e|"G"g>age dB GB|"Am"A>Bcd "G"e2 dB|1 "Am"A>Bcd e2 e2:|2 "Am"A2 AG A4||
