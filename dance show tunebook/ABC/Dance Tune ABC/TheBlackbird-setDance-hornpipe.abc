@@ -7,8 +7,8 @@ R:Set Dance
 O:O'Neill - The Dance Music of Ireland: 1001 Gems, No. 985
 Z:AK/Fiddler's Companion
 K:D
-d>=c|"G"B2B>d|"C"=c2B>c|"Am"A>BA>G|"D7"A>Bc>A|d>^cd>e|d>cA>F|"C"G>AG>F|
-"D"D2 (D>E)|"D"F>EF>G|A"A"2 (f>e)|"G"d>cd>e|"D"d>cA>F|"G"GAGF|"D"D2D2|D2:|
+d>=c|"G"B2B>d|"C"=c2B>c|"Am"A>B A>G|"D7"A>B c>A|d>^c d>e|d>c A>F|"C"G>A G>F|
+"D"D2 (D>E)|"D"F>E F>G|A"A"2 (f>e)|"G"d>c d>e|"D"d>c A>F|"G"G>A G>F|"D"D2D2|D2:|
 |:d>e|"D"f>e d>e|f2g2|a>b a>g | "Bm"f>g a>f|"Em"g2 gf|g>b a>f|"A7"g>a g>f|"D"d2 d>e|
 "D"f>e d>e|f2g2|a>b a>g|"Bm"f>g a>f|"Em"g>a g>f|"D"d2d2|d>e f>g|a>b a>g|
 "Bm"f>g a>f|"Em"g>a g>e|"D"f2 e>d|"C"d>c A>G|"Am"A>B d>e|"D"f>e f>g|"A"a2 a2|
@@ -23,5 +23,5 @@ Q: 1/2=80
 K: Gmaj
 |:AG|"D"F2 FA GF D2|"D"de fd "F#m"dc AF|"G"G2 "Em"GF "G"GF DE|"C"Fd "Am"AF "Em"G2 DE|
 "D"F2 FA GF D2|"D"de fd "F#m"d^c AG|"Am"Ad =cA "G"GB AG|"G"F2 "C"D2 "D"D2:|
-|:fg|"D"ag fa "Em"gf eg|"F#m"fd e^c "D"d=c A2|"D"ag fa "Em"gf de|"D"fd "G"gf "Am"e2 fg|
-"D"a2 ge "C"f3 e|"F#m"d^c de "D"fd AG|"A"Ad =cA "G"GcAG|"G"F2 "C"D2 "D"D2:|
+|:fg|"D"ag fa "Em"gf eg|"F#m"fd e^c "D"d=c A2|"D"a>g f>a "Em"g>f d>e|"D"f>d "G"g>f "Am"e2 f>g|
+"D"a2 g>e "C"f3 e|"F#m"d^c de "D"fd AG|"A"Ad =cA "G"G>c A>G|"G"F2 "C"D2 "D"D2:|
