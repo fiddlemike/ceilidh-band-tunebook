@@ -1,17 +1,18 @@
 X:1
 T:The Blackbird  (An Londubh) Set Dance
+T:Hornpipe, Long dance AABB (Crooked Tune: only 15 bars in A, 30 bars in B Part!)
 M:2/4
 L:1/8
 R:Set Dance
 O:O'Neill - The Dance Music of Ireland: 1001 Gems, No. 985
-S:
 Z:AK/Fiddler's Companion
 K:D
-(d=c)|"G"B2d2|"C"=c2B2|"D"ABAG|AB=cA|"G"dcde|dcAF|"G"GAGF|
-"D"D2 (DE)|F2(FG)|A2 (fe)|dcde|dcAF|"G"GAGF|D2D2|D2:|
-|:(de)|"D"f2d2|f2g2|abag | fgaf|"G"g2 gf|gbaf|gagf|"D"d2 de|"D"fede|f2"G"g2|
-"D"abag|fgaf|"G"gagf|"D"d2d2|defg|"D"abag|fgaf|"G"gage|"D"f2 (ed)|"C"c2(AB)|
-c2 (de)|"D"defg|a3 z|"D"A3G|FGAB|"C"=c3e|d^cAF|"G"GAGF|D2D2|D2:||
+d>=c|"G"B2B>d|"C"=c2B>c|"Am"A>BA>G|"D7"A>Bc>A|d>^cd>e|d>cA>F|"C"G>AG>F|
+"D"D2 (D>E)|"D"F>EF>G|A"A"2 (f>e)|"G"d>cd>e|"D"d>cA>F|"G"GAGF|"D"D2D2|D2:|
+|:d>e|"D"f>e d>e|f2g2|a>b a>g | "Bm"f>g a>f|"Em"g2 gf|g>b a>f|"A7"g>a g>f|"D"d2 d>e|
+"D"f>e d>e|f2g2|a>b a>g|"Bm"f>g a>f|"Em"g>a g>f|"D"d2d2|d>e f>g|a>b a>g|
+"Bm"f>g a>f|"Em"g>a g>e|"D"f2 e>d|"C"d>c A>G|"Am"A>B d>e|"D"f>e f>g|"A"a2 a2|
+"D"A>B A>G|F>G A>B|"C"=c>B c>e|"D"d>^c A>F|"Gm"G>A G>F|D2D2|D4:|]
 %%vskip
 T: The Blackbird Hornpipe
 R: hornpipe
