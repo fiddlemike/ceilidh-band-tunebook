@@ -12,6 +12,7 @@ K: Dmaj
 "A" cA/A/ "D" dA/A/ |"A" eA/A/ "D" fA/A/
 |"Em" gf ed |"A7" cB AG |"D" Fd (d/c/d/e/) |"D" dA A z|$
 "Em" Be (e/d/e/f/)|"Em" eB B z|"D" Ad (d/c/d/e/) |"D" fd (d/c/d/e/)|"D" f z"A7"a z |[1"D" d (c/B/A/G/F/E/):|[2 "D" d3 z |]
+%%vskip
 T:Fairy Dance, The (Dance: Country Dance)
 C:Nathaniel Gow
 S:Peter Hardie's MSS, via Scottish Country Dance Book 3
@@ -22,6 +23,7 @@ K:D
 "D"f2 fd f2 fd|"D"f2 fd "A"cdeg|"D"f2 fd "G"gfed|1"A"cABc "D"d2 de:|]2"A"cABc "D"defg|]$
 "D"a2 af "G"b2 ba|"Em"gfge "A"a2 ag|"D"fefd "G"B2 ge|"A"cABc "D"defg|$
 "D"a2 af "G"b2 ba|"Em"gfge "A"a2 ag|"D"fefd "G"B2 ge|"A"cABc "D"d2 z2|]$
+%%vskip
 T: The Spanish Lady (Dance:  Alt. for the Fairy Reel)
 R: polka
 M: 2/4
