@@ -20,10 +20,10 @@ M: 6/8
 L: 1/8
 K: Amaj
 "A" ~e3 ecA | "A" ecA "E" Bcd | "A" ~e3     ecA | "D" Bcd "E" cBA   |
-"A" ~e3 ecA | "A" ecA "E" Bcd | "A" eae "D" fed | "E" cdB "A" A3   :|
+"A" ~e3 ecA | "A" ecA "E" Bcd | "A" (e<a)e "D" fed |[1 "E" cdB "A" Acd:|[2"E" cdB "A" A2e|]
 "A" Ace Ace | "D" Adf     Adf | "A" Ace     Ace | "D" Bcd "E" cBA   |
-"A" Ace Ace | "D" Adf     Adf | "A" eae "D" fed | "E" cdB "A" A3   :|
-"A" a2e edc | "A" a2e     edc | "A" a2e     edc | "D" Bcd "E" efg   |
-"A" a2e edc | "A" a2e     edc | "A" ~e3 "D" fed | "E" cdB "A" A3   :|
-"A" c2c cAc | "D" d2d     dBd | "A" c2c     cAc | "G" B2B     B=GB  |
-"A" c2c cAc | "D" d2d     dBd | "A" eae "D" fed | "E" cdB "A" A3   :|
+"A" Ace Ace | "D" Adf     Adf | "A" (e<a)e "D" fed |[1"E" cdB "A" A2e:|[2"E" cdB "A" A2(g|]
+"A" a2)e edc/(g/ | "A" a2)e edc/(g/| "A" a2)e edc | "D" Bcd "E" cBA/(g/   |
+"A" a2)e edc/(g/ | "A" a2)e edc/(g/ | "A" ~a2) e "D" fed |[1"E" cdB "A" A2 g:|[2"E" cdB "A" A2 c |]
+"A" cAc cAc | "D" dBd     dBd | "A" cAc     cAc | "G" B=GB     B=GB  |
+"A" cAc cAc | "D" dBd     dBd | "A" (e<a)e "D" fed |[1"E" cdB "A" A2 c:|[2 "E" cdB "A" A3|| "A"A6|]
