@@ -1,0 +1,28 @@
+X:1
+T:Jig Set No. 7 -(Fionn Seisun Book 1, Page 25)
+T:The Lark in the Morning
+%%font Palatino-Bold
+%%gchordfont Palatino-Bold 14
+M:6/8
+L:1/8
+K:G
+dB|:"D"AFA AFA|"G"BGB BdB|"D"AFA AFA|fed "G"BdB|"D"AFA AFA|"G"BGB BAB|"D"def afe|"G"fed BdB:|
+|:"D"def afa|"G"baf "D"afe|def gfe|"G"fed "A"BAB|"D"def afa|"G"baf "D"afe|"G"g3 "D"faf|"G"edB B2A:|
+|:"D"d2 f fef|fef fef|d2 f fef|"G"edB BAB|"D"d2 f fef|fef fed|"G"~g3 "D"~f3|"G"edB BAF:|
+|:"D"Add fdd|"A"ede "D"fdB|"D"Add fdd|"A"efe edB|"D"Add fdd|"A"ede "D"fed|"G"~g3 "D"~f3|"A"edB B2d:|
+T:The Humours of Ennistymon
+R:jig
+M:6/8
+K:G
+A|"G"~B2 B GBd|"C"cBc "D"ABc|"G"~B2 B GBd|"C"cAG "D"FGA|"G"~B2 B GBd|"C"cBc "D"ABc|"D"ded cAF|"D"AGF "G"G2:|
+|:e|"D"~f3 fed|"D"cAG FGA|"G"dgg gfg|"D"afd d2e|"D"~f3 fed|"D"cAG FGA|"G"~B3 "C"cAF|"D"AGF "G"G2:|
+|:d|"G"gdB gdB|"Am"ecA ecA|"G"~B2 B GBd|"C"cAG "D"FGA||1"G" gdB gdB|"A"ecA ecA|
+"G" ~B2 B "C"GBd|"D"cAF "G"G2:||2"G" ~B2 B GBd|"C"cBc "D"ABc|"D"ded cAF|"D"AGF "G"G2|]
+T:The Wandering Minstrel
+%%scale
+R:jig
+M:6/8
+K:D
+|:"D"ADD BAF|"D"Ade "G"fdB|"D"ADD "G"BAG|"D"(3FGA F "A"GFE|"D"ADD BAF|Ade"Bm" fdB|"G"AdB "D"AFE|1"A"FDD "D"D2B:|2"A"FDD "D"D2g|]
+|:"D"fdf "A"ede|"Bm"fdB AFA|"G"BdB "D"AFd|"Em"AGF "A"E2g|"D"~f3 "A"ede|fdB "Bm"AFA|"G"BdB "D"AFE|1"A"FDD "D"D2g:|2"A"FDD "D"D2e|]
+|:"D"fef afd|"G"gbe gbe|"D"~f3 afd|"A"ceA ceA|"Bm"fef afd|"G"gbe gbe|"D" ~f3 "A"ede|1"D"fdc d2e:|2"D"fdc d2B|]
