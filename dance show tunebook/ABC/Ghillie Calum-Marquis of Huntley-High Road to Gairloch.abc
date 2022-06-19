@@ -17,8 +17,9 @@ R:Country Dance
 B:Preston's 24 Country Dances for the Year 1796 
 Z:AK/Fiddler's Companion 
 K:D 
-A|"D"d<df>d "G"g>e"D"f<d|"Em"B<e"E7"e>d {d}"A"c<A"A7"A<c|"D"d<df>d "G"g>e"D" f<d|"Em"B>e "A7"d/c/B/A/ "D"d2d:| 
+A|"D"ud<vd"*"f>d "G"g>e"D"f<d|"Em"uB<ve"E7""*"e>d {d}"A"c<A"A7"A<c|"D"ud<vd"*"f>d "G"g>e"D" f<d|"Em"B>e "A7"d/c/B/A/ "D"d2d:| 
 |:B|"D"A<D (F/E/D) A>Bd>f|"D"{a}g>ef<d "G"{f}e>dB<d|"D"A<D (F/E/D) "G"A>Bd<b|"A7"a<fef "D"d2d:|] 
+%%vskip
 T: The High Road To Gairloch (Dance: The Highland Fling)
 R: march
 M: 2/4
@@ -26,6 +27,6 @@ L: 1/8
 Q:1/4=96
 K: Amix
 e>f eA|{cd}cA {g}e2|df/{g}e/ dG|B=G {dc}d2|
-e>f eA|{cd}cA {g}e2|{g}A>B {cd}cA|{Bd}B2 {B}A2:|
-cA A>B|cA c2|d>c B>c|dB d2|
-cA A>B|cA ce|A>B cA|B2 A2:|
+e>f eA|{cd}cA {g}e2|{g}A>B {cd}cA|{Bd}B2 {/B}A2:|
+cA {/d}A>B|cA {/d}c2|d>c B>{/d}c|dB {dc}d2|
+cA {/d}A>B|cA {/d}ce|{g}A>B {cd}cA|{Bd}B2 {/B}A2:|
