@@ -1,0 +1,29 @@
+I:abc-charset utf-8
+X:1
+T: Old Joe's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+Q: 3/8=136
+|: (e|"D"f)AA AFA | "G"BAF "D"A2 (A|"G"B)dB "D"AFA |"E7"Bcd "A7"efg |
+"D"fAA AFA | "G"BAF "D"A2 (A|"G"B)dB "D"AFA | "A7"Bdc "D"d2 :|
+|: (e|"D"f)af "A"efe | "D"dBA d2(e | "D"f)aa "G"afe |"A7"faa "D"b2 (a |
+"D"f)af "A"efe | "D"dBA d2(e|"D"f)AA AFA | "A7"Bdc "D"d2 :|
+T: The Kesh
+M: 6/8
+L: 1/8
+K: Gmaj
+|:"G"G3 GAB| "D"A3 ABd|"C"edd gdd|"G"edB "D"dBA|
+"G"G3 GAB|"D"ABA ABd|"C"edd gdB|"D"AGF "G"G3:|
+||:"G"BAB dBd|"C"ege "G"dBG|"G"~B3 dBG|"D"ABA AGA|
+"G"BAB dBd|"C"ege dBd|"C"~g3 "D"aga|"G"bgg g3:||
+T: The Swallowtail Jig
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|"Em"GEE BEE|GEE BAG|"D"FDD ADD|dcd AGF|
+"Em"GEE BEE|GEE B2 c|"D"dcd AGF|[1"Em"GEE E3:|[2"Em"GEE E2 B|]
+|:"Em"Bcd e2f|e2f edB|Bcd e2f|"Em"edB "D"d3|
+"Em"Bcd e2f|e2f edB|"D"dcd AGF|[1"Em"GEE E2B:|[2"Em"GEE E3|]

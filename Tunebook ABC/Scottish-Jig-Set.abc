@@ -9,15 +9,6 @@ K: Amaj
 "A"a2e c2e|agf e2c|"D"d2e f2e|"E7"fac "A"(B2A):||
 |:"A"cAA eAA|cAA (edc)|"Bm"dBB fBB|dBB "e7"(fed)|
 "A"cAA eAA|cAA (edc)|"D"d2e f2e|"e7"fac "A"(B2A):|]
-T: Calliope House (Scottish Jig)
-R: jig
-M: 6/8
-L: 1/8
-K: Dmaj
-|"D"dAA fAA|eAA fAA|"Em"Bee e2d|"Em"efe "G"dBA|"D"FAA A2F|
-A2B d2e|1 "D"f2f fed|"A"e3 e2A:|2 "D"f2f "G"edc|"D"d3 efg||
-"D"a2a faa|eaa faa|"G"g2g fgf|efe dBA|"D"FAA A2F|
-A2B d2e|1"D" f2f fed|"A"e3 efg:|2 "D"f2f "G"edc| "D"d3 d3|]
 T: Teviot Bridge (Scottish Jig)
 S: Lance Ramshaw, Slow Scottish Jam collection
 R: jig
@@ -34,4 +25,12 @@ f |\
 f |\
 "A"ecA Ace | "D"fdf fga | "A"ecA AcA | "E"BGE E2(c/d/) |\
 "A"ece "D"fdf | "E"geg "F#m"agf | "D"edc "E"BAG | "A"A3 A2 |]
-
+T: Calliope House (Scottish Jig)
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|"D"dAA fAA|eAA fAA|"Em"Bee e2d|"Em"efe "G"dBA|"D"FAA A2F|
+A2B d2e|1 "D"f2f fed|"A"e3 e2A:|2 "D"f2f "G"edc|"D"d3 efg||
+"D"a2a faa|eaa faa|"G"g2g fgf|efe dBA|"D"FAA A2F|
+A2B d2e|1"D" f2f fed|"A"e3 efg:|2 "D"f2f "G"edc| "D"d3 d3|]

@@ -1,0 +1,29 @@
+I:abc-charset utf-8
+X:1
+T: John McAlpine
+R: strathspey
+M: 4/4
+L: 1/8
+K: Amaj
+|:AB|:"A"c2 c>B "D"A<F F>A|"A"E>F A>B "E"c<B B>A|"A"c2 c>B "D"A<F F>A|"A"E>A e>c "E"B2"A"A2:|
+|:"A"c<e e>f e>f a>f|"A"e<c c>a "E"e>c B2|"A"c<e e>f "A/C#"e>f "D"a>f|"A/E"e<c c>A "E"B2 
+%%vskip
+T: The Marquis of Huntly's  Highland Fling  
+M:C| 
+L:1/8 
+R:Country Dance 
+B:Preston's 24 Country Dances for the Year 1796 
+Z:AK/Fiddler's Companion 
+K:D 
+A|"D"d<df>d "G"g>e"D"f<d|"Em"B<e"E7"e>d {d}"A"c<A"A7"A<c|"D"d<df>d "G"g>e"D" f<d|"Em"B>e "A7"d/c/B/A/ "D"d2d:| 
+|:B|"D"A<D (F/E/D) A>Bd>f|"D"{a}g>ef<d "G"{f}e>dB<d|"D"A<D (F/E/D) "G"A>Bd<b|"A7"a<fef "D"d2d:|] 
+%%vskip
+T:Red Haired Girl of Tulloch, The
+M:4/4
+L:1/8
+R:Strathspey
+S:MacDonald – Skye (1887)
+K:Bmin
+|:"Bm"B<B d>e f>e f<a|"A"A<A c>B A>ce>c|"Bm"B<Bd>e f>ef>^g|"F#m"a>fe>c "Bm"B2 B2 :|
+"Bm"d>f B>f d>f B>f|"A"c<e A>e c<e A>e|"B"d>f B>f d>f B>f|"F#m"a>fe>c "Bm"B2 (B>f)|
+"Bm"d>fB>f d>>fB>f|"A"c<e A>e c<e A>e|"Bm"B<B d>e f>ef>^g|"F#m"a>fe>c "Bm"B2 B2 |]
